@@ -1,0 +1,4 @@
+
+It took me about 10 - 12 hours to learn about how to do scraping and various libraries I can use to scrap the website.
+
+It took me about 8 - 10 hours to code the assignment. It took me this long because scrapy framework was giving me some issues.
